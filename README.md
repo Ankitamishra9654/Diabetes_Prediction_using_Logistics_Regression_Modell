@@ -1,0 +1,1 @@
+# Diabetes_Prediction_using_Logistics_Regression_Modell
